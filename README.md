@@ -10,7 +10,7 @@
 
 ---
 
-## Authors <a name="authors"></a>
+## Authors <a name="authors"></a> 
 
 Patrick T. Brandt, Vito D'Orazio, Latifur Khan, and Javier Osorio
 

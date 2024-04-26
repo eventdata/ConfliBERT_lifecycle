@@ -43,7 +43,7 @@ The content includes distinct folders corresponding to each of the main stages o
    * Describes the methodology implemented to ensure the domain validity of the text used to conform the corpora in each language. This incudes a detailed description of the words used to filter out false positives, and the process of shaping domain-specific text tailored to ConfliBERT.
    * Due to copyright restrictions, we cannot make publicly available the entire corpora used to develop the different ConfliBERT models.
 3. **LLM Development**:
-   * Provides a technical description onf the LLM design and architecture including: environment setup, script development, and model training.
+   * Provides a technical description of the LLM design and architecture including: environment setup, script development, and model training.
 4. **Training Datasets**:
    * Describes the different applications developed by this research team to test ConfliBERT's performance in a variety of NLP tasks.
 5. **Machine translation**:

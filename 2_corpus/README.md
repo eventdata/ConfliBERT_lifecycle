@@ -14,10 +14,14 @@ To use the scraping script, place all files to be filtered in a single directory
 
 The file structure is:
 Filter
+
  -- elespectador
- -- -- elespactador01.csv
- -- -- elespactador02.csv
- -- -- elespactador03.csv
+ 
+  -- -- elespactador01.csv
+ 
+  -- -- elespactador02.csv
+ 
+  -- -- elespactador03.csv
 
  These files should be in csv format with the attributes gathered by the scraping script.
 

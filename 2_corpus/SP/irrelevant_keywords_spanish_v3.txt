@@ -1,0 +1,761 @@
+100 m
+100 metros
+200 m
+200 metros
+400 m
+400 metros
+500 m
+500 metros
+500 millas
+500 millas de Indianapolis
+500 millas de Indianápolis
+AMEX
+Auto.Rac
+BWF
+CBA.Playoffs
+CBE
+COVID
+COVID 19
+COVID-19
+COVID.19
+DJIA
+Disney
+Dow Jones
+Dow.Jones
+F1
+FIBA
+FIFA
+FINA 
+FIVB
+Flowery.Gold.Mines|FLOD
+Grammy
+Guerra de las galaxias
+IAAF
+IABA
+IBSF
+IHF
+Indianapolis
+Indianapolis.500
+Indianápolis
+Indianápolis.500
+Indice futuro
+Indy
+IndyCar
+LPGA
+Mets
+NASCAR
+NASD
+NBA
+NCAA
+NFL
+NHL
+NYSE
+Nasdaq
+Netflix
+Oscar
+PGA
+PSE
+Philly
+Pingüinos
+Piratas
+Russell 2000
+Russell US Index
+Russell.2000
+Russell.US.Index
+S&P
+Star Wars
+Star.Wars
+T-bill
+Tesorería
+Tesoros
+Tour
+Triatlón
+Tur
+Turismo
+US Open
+U\.S\. Open
+WGC
+WTA
+Wimbledon
+Yankees
+abierto de francia
+abierto de tenis
+abierto de tenis de Estados Unidos
+academia
+accesorio
+accidente
+acne
+acrobacia
+acrobático
+actor
+actriz
+actualidad
+acuático
+adicción
+adicto
+aficionado
+afición
+agricultura
+aguas abiertas
+aguas bravas
+ajedrez
+album
+alimenta
+alimento
+alimentos
+alma
+alpinismo
+alpino
+alta cocina
+altas temperaturas
+amante
+amor
+animal
+anota
+apuesta
+arquería
+arruga
+arte
+artes marciales
+artista
+artistas
+atend
+atleta
+atletismo
+atletismo de fuerza
+audiencia
+auditorio
+australian open
+autocuidado
+autoestima
+automovlisimo
+automóviles
+autos
+aventura
+badminton
+badminton
+bajas temperaturas
+balada
+baloncesto
+balonmano
+balonpie
+balón
+balón cesto
+balón pie
+barco
+barras paralelas
+basquetball
+basquetbol
+bateador
+bbcthree
+bcs.campeón
+bcs.nacional
+beach
+beisbol
+bella
+belleza
+beneficios
+bicicleta
+bicicleta de montaña
+bicicleta de ruta
+bienestar
+billar
+billete
+boda
+bola
+bolos
+boxeador
+boxeo
+braves
+british open
+british.open
+broadway
+bádminton
+caballo
+cabello
+campeona
+campeonato
+campeonato mundial
+campeonatos
+campeón
+campo \w+ gol
+cancer
+canción
+cantante
+cantantes
+cardenal
+cardenales
+carrera
+carreras
+carros
+cartelera
+casarse
+cejas
+celebra
+celebración
+celebrid
+celebridad
+celebrity
+celebs
+celulitis
+central
+cerveceros
+cerveza
+champion
+champions
+champions league
+chef
+chewbacca
+chubaca
+ciclismo
+ciclismo de montaña
+ciclismo de ruta
+cine
+cinematograf
+circuito
+clavadista
+clavado
+clima
+clinics
+club
+clubes
+clásico
+coches
+comentarista
+comida
+comidas
+competencia
+competidor
+compradores
+compras
+compromiso
+concacaf
+concierto
+confesión
+confiesa
+consumidor
+copa
+copa América
+copa del mundo
+copa mundo
+coreback
+corporat
+corredor
+corto
+cortometraje
+cotacto mortal
+cotización
+country
+crema
+cricket
+crisis económica
+cross country
+cross-country
+cross.country
+crossfit
+cultura
+cultura popular
+culturismo
+curios
+curling
+cyclyng
+cámara
+cáncer
+dardos
+daytona 500
+decatlón
+decora
+defensa
+delantero
+deporte del motor
+deportes
+depresión
+deprimid
+desastre
+desastre natural
+desempleo
+desintoxica
+deslave
+destino
+dinero
+dirverti
+diversión
+divorcio
+dojo
+dolar
+dragster
+dulces
+ecuestre
+educación
+ejercicio
+eliminatoria
+elle
+emocional
+emotivo
+empresa
+empresario
+enduro
+enfermedad
+engañ
+entrenamiento de primavera
+entrenamiento.de.primavera
+entretenimiento
+entrevista
+equipo
+escalada
+escalada en roca
+escalador
+escandaliza
+escor
+escándalo
+esencia
+esgrima
+espada
+espadachín
+especiales
+espectacular
+espectáculos
+esqui
+esquiar
+estelar
+estelar
+estilo de vida
+estrena
+estreno
+estrenos de la semana
+expo
+expos
+exótica
+exótico
+falta
+fama
+familiar
+famosa
+famoso
+fans
+fashion
+ficción
+film
+filmación
+filme
+fin de semana
+finales
+finalista
+fitness
+fondo
+formula 1
+foto
+francés.abierto
+frodo
+fuera de temporada
+fund
+futbol
+futbol americano
+futbol de playa
+futbol de salón
+futbol rápido
+futuro
+fórmula 1
+fútbol
+galería
+game
+games
+ganador
+ganancia
+ganar
+gimnacia
+gimnasia
+gimnasia artística
+gimnasia rítmica
+gimnástico
+gol
+gol de campo
+goleador
+goleadores
+goles
+golf
+gran premio
+gran premio de mónaco
+gran prix
+gran slam
+grand prix
+grand slam
+grand.national
+grand.prix
+grand.slam
+greco romana
+grecoromana
+gráfico
+guapa
+guapo
+halterofilia
+han solo
+health
+healthy
+hielo
+hiking
+hinchan
+hinchas
+hipoteca
+hockey
+hockey sobre hielo
+hockey sobre pasto
+hogar
+hollywood
+homenaje
+huracanado
+huracán
+inflacionaria
+inflación
+influencer
+info
+infusi
+inhundacion
+inmobiliario
+instagram
+intercambio
+invertir
+invierno
+iron man
+iron.man
+ironman
+jazz
+jedi
+joyas
+joyería
+judo
+juego
+juegos
+juegos montados
+jugador
+jugadora
+jugadoras
+jugadores
+jugar bola
+karate
+karateca
+karting
+karts
+katana
+kayak
+kendo
+kentucky derby
+la academia
+labios
+lacrosse
+lansamiento de javalina
+lanzadores
+lanzamiento de disco
+lanzamiento de marticho
+largometraje
+le mans
+levantamiento de pesas
+levantamiento de pesas
+levantamiento.de.pesas
+libros
+libros 
+life
+liga
+liga de campeones
+liga de naciones
+liga deprotiva
+liga profesional
+limpieza
+linfático
+lipstick
+literatura
+lo nuevo
+locura de marzo
+look
+looks
+lotería
+luce
+lucha grecoromana
+lujo
+luminarias
+magia
+makeup
+mandalorian
+maquillaje
+maratonista
+maratón
+marcador
+marcador
+marcas
+marcha
+mariscal
+mariscal de campo
+match
+meast
+medallista
+medio
+medio ambiente
+medio de contención
+medio delantero
+medio tiempo
+mercado
+mister olympia
+moda
+modelaje
+modelo
+mondea
+moneda
+monster truck
+montar
+mordor
+motocicletas
+motociclismo
+motos
+muay thai
+mundial
+mundial de futbol
+mundial de soccer
+mundo del espectáculo
+musical
+música
+nadado
+nadador
+nadar
+natacion
+natación
+natación artística
+natural
+negicia
+negocio
+negocios
+novedades
+novela
+novelas
+novia
+novio
+nutrición
+obituar
+ofertas
+ofertas.bcs
+ojos
+olimpiadas
+olimpic
+olímpico
+orioles
+oscars
+otoño
+padbol
+padel
+paidpost
+pandemia
+paquete
+paquetes
+paralímpico
+paralímpicos
+paraolímpicos
+parrilla de salida
+parrilla.de.salida
+pasear
+paseo
+patinador
+patinaje
+patinaje de velocidad
+patineta
+peinado
+pelicula
+pelo
+pelota
+pelota vasca
+película
+películas 
+penal
+penales
+penalti
+penaltie
+pentatlon
+pentatlón
+perfecto
+perfúme
+pesca
+pesca deportiva
+pescado
+piel
+ping pong
+ping.pong
+pingpong
+piraguismo
+pista corta
+pista de arcilla
+pista de carrera
+placeres
+playoffs
+pocker
+podcast
+pollut
+polo
+portero
+portería
+potro
+powerball
+powerboat
+precios
+primavera
+princesa
+princesa leia
+prix
+pro league
+producto
+profesional
+puntaje
+puntuación
+puntuación \w+ gol
+quidditch
+racing
+radio
+rally
+rapel
+raquet ball
+raqueta
+realeza
+recapitulación
+receta
+refresco
+regalos
+relación
+relevos
+religi
+religión
+remo
+rendimiento
+resultado final
+resultados
+resumen
+reto
+revela
+rey
+rock
+roller derby
+room
+ropa
+royal
+rugby
+rumor
+rutina
+rutina libre
+ryder
+salto de altura
+salto de bara
+salto de esquí
+salto de longitud
+salto de pértiga
+salud
+salud mental
+sambo
+scor
+score
+seca
+seis naciones
+seis.naciones
+semi final
+semi.final
+semifinal
+semifinalista
+sensei
+sequía
+serie de besibol
+serie mundial
+señor de los anillos
+shampoo
+sideacross
+silla de ruedas
+sillas de ruedas
+sismo
+skin
+sky
+skywalker
+snooker
+snowboard
+soccer
+socer
+softbol
+sonrie
+sonrisa
+speedway
+spray
+squash
+stock
+streeming
+style
+sunami
+super bowl
+super tazón
+superbikes
+surf
+surfista
+tabaco
+tabaquismo
+tablero
+taekowndo
+teatral
+teatro
+tech
+tecnología
+tele
+televisión
+temblor
+temblor de corazón
+temperatura
+tendencia
+tenis
+tenis de mesa
+tenía meta
+terremoto
+terremoto
+tiempo
+tiempo extra
+tiempos extra
+tierra
+tiktok
+tipo de interés
+tiro \w+ gol
+tiro al blanco
+tiro con arco
+top sing
+tornado
+torneo
+tour de francia
+trampolín
+triatlon
+tsunami
+turista
+turistear
+tv 
+uefa
+us.open
+vacuna
+vallas
+vaqueros
+vela
+vendedor
+venta
+ventanilla
+ventas
+verano
+vestido
+viajar
+viaje
+vida
+video
+viral
+vitamina
+voleybol
+voleybol de playa
+vr
+vuelta
+waterpolo
+wedding
+western
+world.classic
+world.series
+wushu
+yoda
+yoga
+youtube
+Índice futuro
+álbum
+éxito
